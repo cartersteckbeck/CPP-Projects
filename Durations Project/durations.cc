@@ -4,8 +4,6 @@ FILE: durations.cc
 
 AUTHOR: Carter Steckbeck
 
-DATE: 1/24/19
-
 DESCRIPTION: Program that takes the number of trips and range of dates for
              trips and outputs the total days, shortest trip, longest trip, and
              average trip duration.

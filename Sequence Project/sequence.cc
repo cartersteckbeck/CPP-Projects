@@ -2,7 +2,6 @@
     File: sequence.cc
     Author: Carter Steckbeck
     Date: 2/11/20
-    Assignment: Lab 02 (Sequence)
 
     Implementation of a simple array-based sequence class.
 

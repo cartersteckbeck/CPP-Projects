@@ -1,11 +1,9 @@
 /***********************************************
 * File: huffman.cc
 *
-* Author: Alistair Campbell (version 1)
+* Author: Carter Steckbeck
 *
-* Author:
-*
-* Description:
+* Description: Program that uses Huffman Encoding Algorithm to compress a given text file
 *
 *************************************************/
 

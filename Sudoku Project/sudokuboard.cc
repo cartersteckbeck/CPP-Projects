@@ -2,7 +2,6 @@
     File: sudokuboard.cc
     Author: Carter Steckbeck
     Date: 3/7/20
-    Assignment: Lab 03 (Sudoku)
 
     Implementation of a sudoku board
 ************************************************************************/

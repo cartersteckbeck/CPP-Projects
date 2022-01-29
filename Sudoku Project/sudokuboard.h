@@ -2,7 +2,6 @@
     File: sudokuboard.h
     Author: Carter Steckbeck
     Date: 3/07/20
-    Assignment: Lab 03 (Sudoku)
 
     Declaration of a suduoku board
 ************************************************************************/

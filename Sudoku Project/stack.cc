@@ -2,7 +2,6 @@
     File: stack.cc
     Author: Carter Steckbeck
     Date: 3/7/20
-    Assignment: Lab 03 (Sudoku)
 
     Implementation of a link-list-based stack data structure
 ************************************************************************/

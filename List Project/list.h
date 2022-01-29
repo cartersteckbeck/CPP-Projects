@@ -1,8 +1,6 @@
 /************************************************************************
     File: list.h
     Author: Carter Steckbeck
-    Date: 4/10/20
-    Assignment: Lab 04 (List)
 
     Declaration of a doubly linked list
 ************************************************************************/

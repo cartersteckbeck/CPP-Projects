@@ -1,8 +1,6 @@
 /************************************************************************
-    File: stack.h
+    File: list.cc
     Author: Carter Steckbeck
-    Date: 4/11/20
-    Assignment: Lab 04 (List)
 
     Implementation of a doubly linked list
 ************************************************************************/
